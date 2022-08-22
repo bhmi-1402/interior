@@ -239,7 +239,7 @@ color: #fff;
     object-fit: cover;
 }
 .project .box-container .box img:hover{
-    transform: scale(2.4);
+    transform: scale(1.6);
 }
 .contact{
     min-height: 100vh;
